@@ -53,5 +53,7 @@ group :development do
   gem "web-console"
 end
 
+gem "simple_form"
+
 gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
